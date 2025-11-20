@@ -13,9 +13,9 @@ You may delete the bin_score.csv,merchant_score.csv and user_score.csv, as they 
 
 To ensure the project works as intended:
 
-1.Open the SetupPrediction file.
-2;Run each code block sequentially (in order).
-3;Testing: You can edit the test case in the last block to add or modify data instances for testing.
+  1.Open the SetupPrediction file.
+  2.Run each code block sequentially (in order).
+  3.Testing: You can edit the test case in the last block to add or modify data instances for testing.
 
 Contact
 Feel free to contact me regarding any questions about this project:
